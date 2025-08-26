@@ -234,16 +234,6 @@ Run → Edit Configurations → Environment variables → `ALPHAVANTAGE_API_KEY=
 
 ---
 
-## 🧭 Roadmap (ideas de mejora)
-
-- [ ] Pool de hilos (concurrencia).
-- [ ] Soporte **HEAD** y **POST**.
-- [ ] Cache‑Control para estáticos.
-- [ ] `404.html` personalizada.
-- [ ] Middleware sencillo (logs/headers).
-
----
-
 ## 📝 Licencia
 
 Incluye `LICENSE` (MIT u otra que defina tu curso).
